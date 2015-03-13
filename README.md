@@ -2,6 +2,8 @@ This is a fork and rename of github.com/jmdobry/waterline-rethinkdb. The origina
 and minor rethinkdb client API changes. This version is passing most tests (fails 6 tests). I will be porting this version to use rethinkdbdash as its client library and building in
 support for the waterline query language.
 
+I would like to thank jmdobry for creating the original version and giving me an excellent starting point!
+
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
 ## RethinkDBAdapter
