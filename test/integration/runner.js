@@ -15,13 +15,13 @@ var tests = require('../../node_modules/waterline-adapter-tests'),
 var adapter = new RethinkDBAdapter({
 	db: 'test',
 	host: '127.0.0.1',
-	port: 28015
+	port: 30815
 });
 
 var config = {
 	db: 'test',
 	host: '127.0.0.1',
-	port: 28015
+	port: 30815
 };
 
 /**

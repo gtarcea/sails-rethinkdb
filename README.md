@@ -1,4 +1,6 @@
-__I am no longer working on this project, feel free to pick it up. If you're still interested in an ORM for RethinkDB, check out [reheat](http://reheat.codetrain.io)__
+This is a fork and rename of github.com/jmdobry/waterline-rethinkdb. The original version stopped working with RethinkDB due to a dependency on older versions of the rethinkdb client
+and minor rethinkdb client API changes. This version is passing most tests (fails 6 tests). I will be porting this version to use rethinkdbdash as its client library and building in
+support for the waterline query language.
 
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 

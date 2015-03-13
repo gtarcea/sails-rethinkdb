@@ -39,7 +39,7 @@
 	"readmeFilename": "README.md",
 	"dependencies": {
 		"async": "0.2.9",
-		"rethinkdb": "~1.10.0-0",
+		"rethinkdb": "~1.16.2",
 		"underscore": "~1.5.2",
 		"generic-pool": "~2.0.4"
 	},

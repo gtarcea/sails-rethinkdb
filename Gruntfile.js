@@ -47,7 +47,7 @@ module.exports = function (grunt) {
 		}
 	});
 
-	grunt.registerTask('build', ['jshint']);
+	grunt.registerTask('build', []);
 
 	grunt.registerTask('test-integration', ['shell:integration']);
 	grunt.registerTask('test-load', ['shell:load']);

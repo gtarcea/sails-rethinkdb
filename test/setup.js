@@ -14,7 +14,7 @@ function setup(err, tries) {
 				setTimeout(function () {
 					r.connect({
 						host: '127.0.0.1',
-						port: 28015,
+						port: 30815,
 						db: 'test'
 					}, next);
 				}, 20);
